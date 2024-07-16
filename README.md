@@ -1,0 +1,2 @@
+hi there, with this App you can choose a location you want to have cycling or walking, the map gives you a marker on itself and a workout data for how much time you did it and the time and date of that workout.
+this project was made totally with ES6-classes in javascript and DOM and also Leaflet library.before i get started i had to study at least a little bit of  its documentation. it did it alone during passing javascript courses at home.
